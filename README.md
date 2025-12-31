@@ -1,86 +1,86 @@
-# Bright Data's Indonesia Proxies
+# Bright Dataのインドネシアプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/id) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/id) 
 
-## Overview
-Experience seamless scraping with Bright Data's [Indonesia proxies](https://brightdata.com/locations/id), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from Indonesia and don't get blocked again.
+## 概要
+精密なターゲティング、比類のない安定性、高速なレスポンス時間を提供するよう設計されたBright Dataの[インドネシアプロキシ](https://brightdata.jp/locations/id)で、シームレスなスクレイピングを体験してください。インドネシアからWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
 
-- **1M Indonesia proxy IPs**
-- **Sticky and rotating sessions**
-- **99.95% success rate**
-- **HTTP(S) & SOCKS5 support**
-- **City, state, ZIP code level targeting (Free)**
+- **インドネシアのプロキシIP 100万件**
+- **Stickyおよびローテーティングセッション**
+- **成功率99.95%**
+- **HTTP(S) & SOCKS5対応**
+- **市区町村、州、ZIPコードレベルのターゲティング（無料）**
 
-## Key Features
-- **High Success Rates**: Achieve up to 99.95% success in your scraping projects.
-- **Fast Response**: Average response time of ~0.7 seconds.
-- **Ethically Sourced**: All proxies are sourced with explicit user consent.
-- **Unlimited Concurrent Sessions**: Scale your operations without limitations.
+## 主な特長
+- **高い成功率**: スクレイピングプロジェクトで最大99.95%の成功率を実現します。
+- **高速レスポンス**: 平均レスポンス時間は約0.7秒です。
+- **倫理的な調達**: すべてのプロキシは、ユーザーの明示的な同意のもとで調達されています。
+- **同時接続セッション無制限**: 制限なく運用をスケールできます。
 
-## Types of Indonesia Proxies
+## インドネシアプロキシの種類
 
-**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+**[**レジデンシャルプロキシ**](https://brightdata.jp/proxy-types/residential-proxies)** - 業界最速のレジデンシャルプロキシで、手間なくスクレイピングを行えます。正確なターゲティングと比類のない信頼性をご活用ください。
   
-- **HTTP(S)/ & SOCKS5 supported**
-- **Global customer support**
+- **HTTP(S)/ & SOCKS5対応**
+- **グローバルカスタマーサポート**
 
-**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+**[**データセンタープロキシ**](https://brightdata.jp/proxy-types/datacenter-proxies)** - 最速かつ最も信頼できるデータセンターIPプールを使用して、匿名のデータ収集を手軽にスケールできます。
 
-- **0.24s resonse time**
-- **Pay-Per-IP or bandwidth usage**
+- **レスポンス時間0.24秒**
+- **IPごとの従量課金または帯域幅使用量**
 
-**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+**[**ISPプロキシ**](https://brightdata.jp/proxy-types/isp-proxies)** - 生涯利用できる最高品質のスタティックレジデンシャルプロキシです。
   
-- **Pay-per-IP or by bandwidth usage**
-- **Fastest response time in the industry**
+- **IPごとの従量課金または帯域幅使用量**
+- **業界最速のレスポンス時間**
 
-**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+**[**モバイルプロキシ**](https://brightdata.jp/proxy-types/mobile-proxies)** - 世界中のモバイルIPで、実際のモバイルユーザーのようにWebを閲覧できます。
   
-- **3G/4G/5G mobile IPs**
-- **24/7 global support**
+- **3G/4G/5GのモバイルIP**
+- **24/7グローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/hk) 
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/hk) 
 
-## Getting Started with Bright Data's Indonesia proxies
-1. **Start Free Trial**: No credit card required.
-2. **Integration**: Use our APIs or Control Panel to manage IPs and configurations.
-3. **Supported Languages**: Quick start examples provided for Python, Java, C#, Node.js, and Shell.
+## Bright Dataのインドネシアプロキシを始める
+1. **無料トライアルを開始**: クレジットカードは不要です。
+2. **統合**: APIまたはControl Panelを使用して、IPと設定を管理します。
+3. **対応言語**: Python、Java、C#、Node.js、Shell向けのクイックスタート例をご用意しています。
 
-## Integrations
-Our Indonesia proxies integrate with popular tools and frameworks, including:
+## 連携
+インドネシアプロキシは、以下を含む人気のツールやフレームワークと連携できます。
 
-- [**Puppeteer**](https://brightdata.com/integration/puppeteer)
-- [**Selenium**](https://brightdata.com/integration/selenium)
-- [**Playwright**](https://brightdata.com/integration/playwright)
-- [**AdsPower**](https://brightdata.com/integration/adspower)
-- [**MultiLogin**](https://brightdata.com/integration/multilogin)
-- [**All proxy integrations**](https://brightdata.com/integration)
+- [**Puppeteer**](https://brightdata.jp/integration/puppeteer)
+- [**Selenium**](https://brightdata.jp/integration/selenium)
+- [**Playwright**](https://brightdata.jp/integration/playwright)
+- [**AdsPower**](https://brightdata.jp/integration/adspower)
+- [**MultiLogin**](https://brightdata.jp/integration/multilogin)
+- [**すべてのプロキシ連携**](https://brightdata.jp/integration)
 
-## Popular Use Cases
-Explore how businesses leverage Indonesia proxies:
+## 人気のユースケース
+企業がインドネシアプロキシをどのように活用しているかをご覧ください。
 
-- [**eCommerce**](https://brightdata.com/use-cases/ecommerce): Track pricing and reviews.
-- [**Social Media**](https://brightdata.com/use-cases/social-media-for-marketing): Monitor trends.
-- [**Real Estate**](https://brightdata.com/use-cases/real-estate): Gather market data.
-- [**Travel**](https://brightdata.com/use-cases/travel): Compare prices across regions.
-- [**Financial Services**](https://brightdata.com/use-cases/financial): Analyze trends securely.
+- [**eCommerce**](https://brightdata.jp/use-cases/ecommerce): 価格やレビューを追跡します。
+- [**Social Media**](https://brightdata.jp/use-cases/social-media-for-marketing): トレンドを監視します。
+- [**Real Estate**](https://brightdata.jp/use-cases/real-estate): 市場データを収集します。
+- [**Travel**](https://brightdata.jp/use-cases/travel): 地域間で価格を比較します。
+- [**Financial Services**](https://brightdata.jp/use-cases/financial): トレンドを安全に分析します。
 
 ## FAQ
 
-### What is an Indonesia proxy server?
-An Indonesia proxy server is a server based in Indonesia that serves as an intermediary between your device and the internet. It provides anonymity, helps bypass restrictions and blocks, enables web content scraping, and enforces content filtering policies.
+### インドネシアのプロキシサーバーとは何ですか？
+インドネシアのプロキシサーバーは、インドネシアに設置されたサーバーで、デバイスとインターネットの間の中継役として機能します。匿名性を提供し、制限やブロックの回避を支援し、Webコンテンツのスクレイピングを可能にし、コンテンツフィルタリングポリシーを適用します。
 
-### Can I target ZIP codes across Indonesia?
-Yes, you can choose IPs using Indonesia zip code level targeting. Bright Data also offers city and state level proxy targeting.
+### インドネシア全域でZIPコードをターゲティングできますか？
+はい、インドネシアのZIPコードレベルのターゲティングを使用してIPを選択できます。Bright Dataは、市区町村および州レベルのプロキシターゲティングも提供しています。
 
-### What types of plans are available? 
-Bright Data offers flexible pricing models, including:
+### どのようなプランがありますか？ 
+Bright Dataは、以下を含む柔軟な料金モデルを提供しています。
 
-- **Pay-As-You-Go**: Fixed rate per GB.
-- **Subscription Plans**: Monthly, yearly, and custom options.
+- **Pay-As-You-Go**: GBあたりの固定料金です。
+- **サブスクリプションプラン**: 月次、年次、およびカスタムオプションです。
 
-### Are Bright Data's Indonesia Proxies compliant and safe to use?
-Bright Data’s proxies are ethically sourced, and we comply with all relevant data protection laws, including GDPR and CCPA.
+### Bright Dataのインドネシアプロキシはコンプライアンスに準拠しており、安全に使用できますか？
+Bright Dataのプロキシは倫理的に調達されており、GDPRおよびCCPAを含む関連するすべてのデータ保護法を遵守しています。
 
-### Is there dedicated support available?
-Our dedicated support team is available 24/7 to assist you. Contact us to discuss your needs and maximize the benefits of our Dedicated proxy network.
+### 専任サポートは利用できますか？
+専任サポートチームが24時間365日対応し、支援いたします。お問い合わせいただき、ニーズについてご相談のうえ、Dedicated proxy networkのメリットを最大化してください。
