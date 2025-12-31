@@ -1,6 +1,6 @@
 # Bright Dataのインドネシアプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/id) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/locations/id) 
 
 ## 概要
 精密なターゲティング、比類のない安定性、高速なレスポンス時間を提供するよう設計されたBright Dataの[インドネシアプロキシ](https://brightdata.jp/locations/id)で、シームレスなスクレイピングを体験してください。インドネシアからWebサイトのスクレイピングを開始し、二度とブロックされないようにしましょう。
@@ -39,7 +39,7 @@
 - **3G/4G/5GのモバイルIP**
 - **24/7グローバルサポート**
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/hk) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/locations/hk) 
 
 ## Bright Dataのインドネシアプロキシを始める
 1. **無料トライアルを開始**: クレジットカードは不要です。
